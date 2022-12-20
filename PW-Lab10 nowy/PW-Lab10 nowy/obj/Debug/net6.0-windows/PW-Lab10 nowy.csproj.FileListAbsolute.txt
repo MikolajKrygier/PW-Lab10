@@ -1,0 +1,20 @@
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\PW-Lab10 nowy.csproj.AssemblyReference.cache
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\PW_Lab10_nowy.Form1.resources
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\PW-Lab10 nowy.csproj.GenerateResource.cache
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\PW-Lab10 nowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\PW-Lab10 nowy.AssemblyInfoInputs.cache
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\PW-Lab10 nowy.AssemblyInfo.cs
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\PW-Lab10 nowy.csproj.CoreCompileInputs.cache
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\bin\Debug\net6.0-windows\PW-Lab10 nowy.exe
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\bin\Debug\net6.0-windows\PW-Lab10 nowy.deps.json
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\bin\Debug\net6.0-windows\PW-Lab10 nowy.runtimeconfig.json
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\bin\Debug\net6.0-windows\PW-Lab10 nowy.dll
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\bin\Debug\net6.0-windows\PW-Lab10 nowy.pdb
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\Interop.MediaPlayer.dll
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\PW-Lab10 nowy.csproj.ResolveComReference.cache
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\PW-Lab10 nowy.dll
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\refint\PW-Lab10 nowy.dll
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\PW-Lab10 nowy.pdb
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\PW-Lab10 nowy.genruntimeconfig.cache
+C:\Users\mikol\source\repos\PW-Lab10 nowy\PW-Lab10 nowy\obj\Debug\net6.0-windows\ref\PW-Lab10 nowy.dll
